@@ -1,0 +1,30 @@
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\valka\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\valka\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\valka\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\valka\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\valka\OneDrive\Работен плот\Coursework\Coursework\obj\Debug\Coursework.pdb
